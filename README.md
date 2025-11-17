@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**y-tadami/y-tadami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/y-tadami">
+    <img height="20" src="https://komarev.com/ghpvc/?username=Keichan15" />
+  </a>
+  <a href="https://github.com/y-tadami">
+    <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y-tadami&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=y-tadami&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y-tadami&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=y-tadami&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=y-tadami&theme=gruvbox&utcOffset=9)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=y-tadami&theme=gruvbox)
