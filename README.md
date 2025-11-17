@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![](https://raw.githubusercontent.com/y-tadami/y-tadami/output/github-contribution-grid-snake.svg)
+
 <p align="left">
   <a href="https://github.com/y-tadami">
     <img height="20" src="https://komarev.com/ghpvc/?username=Keichan15" />
@@ -18,7 +20,4 @@
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=y-tadami&theme=gruvbox)
-
-## Snake
-![](https://raw.githubusercontent.com/y-tadami/y-tadami/output/github-contribution-grid-snake.svg)
 
