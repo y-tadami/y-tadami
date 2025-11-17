@@ -20,3 +20,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=y-tadami&theme=gruvbox)
 
+### 参考記事
+* 
+* [GitHubのプロフィールを充実させてみよう♪](https://qiita.com/Keichan_15/items/7d0595369d6b6e321ede)
+
