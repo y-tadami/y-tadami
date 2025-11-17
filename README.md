@@ -1,7 +1,3 @@
-## Hi there 👋
-
-![](https://raw.githubusercontent.com/y-tadami/y-tadami/output/github-contribution-grid-snake.svg)
-
 <p align="left">
   <a href="https://github.com/y-tadami">
     <img height="20" src="https://komarev.com/ghpvc/?username=Keichan15" />
@@ -10,6 +6,8 @@
     <img height="20" src="https://img.shields.io/github/followers/Keichan15?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+![](https://raw.githubusercontent.com/y-tadami/y-tadami/output/github-contribution-grid-snake.svg)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y-tadami&theme=gruvbox)
