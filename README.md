@@ -7,7 +7,7 @@
   </a>
 </p>
 
-![](https://raw.githubusercontent.com/y-tadami/y-tadami/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/y-tadami/y-tadami/output/github-contribution-grid-snake-dark.svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y-tadami&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=y-tadami&theme=gruvbox)
