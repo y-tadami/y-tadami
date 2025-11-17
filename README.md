@@ -20,7 +20,10 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=y-tadami&theme=gruvbox)
 
-### 参考記事
-* 
-* [GitHubのプロフィールを充実させてみよう♪](https://qiita.com/Keichan_15/items/7d0595369d6b6e321ede)
 
+
+### 参考記事
+* [GitHubのプロフィールを充実させてみよう♪](https://qiita.com/Keichan_15/items/7d0595369d6b6e321ede)
+* [GitHub Readme StatsにPrivate Repositoryを反映させる方法](https://zenn.dev/pageo/articles/a9acf452a84003)
+* [GitHubProfileのページを可能な限りキラキラさせる方法](https://zenn.dev/yutakatay/articles/kirakira-github-profile)
+* [Github Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
